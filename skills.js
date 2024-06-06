@@ -1,3 +1,3 @@
 function calculateNumbers(var1, var2) {
-    // Add your code here
+    print(calculateNumbers(2, 3));
 }
